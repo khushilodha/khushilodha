@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there👋
 
 - 🔭 Former SDE Intern at ESDS Software Solutions & Botosynthesis.
 - 🌱 I’m currently learning new Technical Skills.
