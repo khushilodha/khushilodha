@@ -1,6 +1,6 @@
  Hi there👋
 
-- 🔭 Former SDE Intern at ESDS Software Solutions and 
+- 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis
 - 🌱 I’m currently learning new Technical Skills.
 - 💬 Ask me about any Tech related stuff.
 - 📫 How to reach me: Email @khushilodha07@gmail.com
