@@ -8,4 +8,4 @@
 - 💬 Ask me about any Tech related stuff.
 - 📫 How to reach me: Email @khushilodha07@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like to listen to music while doing work!
+- ⚡ Fun fact: I like listening to music while doing work!
