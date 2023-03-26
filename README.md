@@ -3,7 +3,7 @@
 - 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis.
 - 🌱 I’m currently learning new Technical Skills.
 - 📝 I can write codes in C,C++,Python programming languages
-- 💻 Cloud, Machine Learning, Web Development, Docker are the few current technologies that exites me!
+- 💻 Cloud, Machine Learning, Web Development, Docker are the few current technologies that excites me!
 - 🤖 I am experienced in Conversational AI and can develop Bots
 - 💬 Ask me about any Tech related stuff.
 - 📫 How to reach me: Email @khushilodha07@gmail.com
