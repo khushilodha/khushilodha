@@ -1,6 +1,6 @@
  Hi there👋
 
-- 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis.
+- 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis
 - 🌱 I’m currently learning new Technical Skills
 - 📝 I can write codes in C,C++,Python programming languages
 - 💻 Cloud, Machine Learning, Web Development, Docker are the few current technologies that excites me!
