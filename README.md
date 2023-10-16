@@ -1,5 +1,4 @@
  Hi there👋
-
 - 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis.
 - 🌱 I’m currently learning new Technical Skills.
 - 📝 I can write codes in C,C++,Python programming languages.
