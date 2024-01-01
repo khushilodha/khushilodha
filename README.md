@@ -1,7 +1,7 @@
  Hi there👋
  
 - 🔭 Former SDE Intern at ESDS Software Solutions and Botosynthesis
-- 🌱 I’m currently learning new Technical Skills
+- 🌱 I’m currently learning new Technical Skill
 - 📝 I can write codes in C, C++, Python programming languages
 - 💻 Cloud, Machine Learning, Web Development, and Docker are the few current technologies that excite me!
 - 💻Also Familiar with the Version Control System Git/GitHub
