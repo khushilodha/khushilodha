@@ -6,7 +6,7 @@ Hi there👋
 - 💻 Cloud, Machine Learning, Web Development, and Docker are the few current technologies that excite me!
 - 💻Also Familiar with the Version Control System Git/GitHub
 - 🤖 I am experienced in Conversational AI and can develop ChatBots
-- 💬 Ask me about any Tech related stuff
+- 💬 Ask me about any Tech-related stuff
 - 📫 How to reach me: Email @khushilodha07@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like listening to music while doing coding!
